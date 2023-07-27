@@ -1,4 +1,4 @@
-package model;
+package com.techhive.mindscape.model;
 
 import lombok.Getter;
 import lombok.Setter;
